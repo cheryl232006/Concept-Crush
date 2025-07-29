@@ -32,9 +32,3 @@ Visit the Website (GitHub Pages) :
 
 ---
 
-
-## 🚀 How to Run Locally
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/concept-crush.git
