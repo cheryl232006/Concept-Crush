@@ -7,8 +7,7 @@ It aims to provide engaging and high-quality online learning experiences for stu
 
 ## 🌐 Live Demo
 
-[Visit the Website (GitHub Pages)](https://yourusername.github.io/concept-crush/)  
-*(Update this link after deployment)*
+Visit the Website (GitHub Pages) : 
 
 ---
 
@@ -33,12 +32,6 @@ It aims to provide engaging and high-quality online learning experiences for stu
 
 ---
 
-## 🖼️ Image Sources
-
-- [Unsplash](https://unsplash.com)
-- [RandomUser.me](https://randomuser.me)
-
----
 
 ## 🚀 How to Run Locally
 
